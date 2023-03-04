@@ -8,10 +8,6 @@ body{
     margin-top: 60px;
 }
 
-a, p, h1, h2, h3{
-    margin: 0;
-}
-
 .title{
     justify-self: center;
 }
